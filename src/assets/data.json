@@ -1,0 +1,35 @@
+[
+  {
+    "time": "Now",
+    "description": "Studying Computer Science at Pomeranian Academy in Slupsk and working on my projects."
+  },
+  {
+    "time": "Sep-Dec 2020",
+    "title": "Bankown",
+    "slogan": "Your own bank",
+    "description": "Simple Banking Application with API and Authorization",
+    "skills": ["Laravel", "Vue", "Nginx", "MySQL"],
+
+    "github": "https://www.github.com/mutad/bankown",
+    "url": "https://bankown.mutad.ml"
+  },
+  {
+    "time": "Sep 2020",
+    "title": "Todo",
+    "description": "IOS like todo app on angular",
+    "skills": ["Laravel", "Angular", "MySQL"]
+  },
+  {
+    "time": "Jul 2020",
+    "title": "Blog",
+    "slogan": "Project for MassMedia Group",
+    "description": "Blog on Laravel",
+    "skills": ["Laravel", "MySQL"]
+  },
+  {
+    "time": "Apr-May 2020",
+    "title": "Messenger",
+    "description": "Messenger on sockets and API with Laravel server",
+    "skills": ["Laravel", "Angular", "Redis", "MySQL"]
+  }
+]
