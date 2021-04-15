@@ -1,7 +1,8 @@
 <template>
   <div class="glass sidebar">
     <figure>
-      <img src="profile.jpg" class="glass border" height="150" alt="" />
+      <!-- <img src="@/assets/images/home.png"/> -->
+      <img src="/profile.jpg" class="glass border" height="150" alt="" />
       <figcaption>
         <h3>Nazar Potipaka</h3>
         <small>Full-stack Developer</small>

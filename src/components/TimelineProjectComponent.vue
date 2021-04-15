@@ -4,7 +4,7 @@
   </div>
   <div class="timeline-content">
     <h3 class="project-title">
-      <router-link to="/projects/bankown">{{ this.project.title }}</router-link>
+      <router-link :to="'/projects/'+project.name">{{ this.project.title }}</router-link>
     </h3>
     <small v-if="this.project.slogan != ''" class="project-subtitle">{{
       this.project.slogan
