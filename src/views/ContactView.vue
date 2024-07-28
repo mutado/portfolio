@@ -1,12 +1,6 @@
 <template>
   <div>
     <section class="max-w-prose flex flex-col gap-10 text-balance">
-      <h1>
-        Contact
-      </h1>
-      <p>
-
-      </p>
       <ul class="flex gap-2">
         <li>
           <a href="https://www.linkedin.com/in/nazar-potipaka/">

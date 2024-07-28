@@ -134,7 +134,7 @@ const routes = [
       { name: 'projects', path: '/projects' },
       { name: 'companies', path: '/companies' },
       { name: 'education', path: '/education' },
-      { name: 'skills', path: '/skills' },
+      // { name: 'skills', path: '/skills' },
     ],
   },
   { name: 'activity', path: '/activity' },
