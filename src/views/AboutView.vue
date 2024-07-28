@@ -63,7 +63,9 @@
           <router-link
             v-if="data.companies.length > 3"
             class="font-playfair text-xl hover:underline underline-offset-4"
-            to="/companies"
+            :to="{
+              name: 'companies'
+            }"
           >
             view all ({{ data.companies.length }})
           </router-link>
@@ -102,7 +104,9 @@
           <router-link
             v-if="data.schools.length > 2"
             class="font-playfair text-xl hover:underline underline-offset-4"
-            to="/schools"
+            :to="{
+              'name': 'education'
+            }"
           >
             view all ({{ data.schools.length }})
           </router-link>

@@ -29,17 +29,17 @@
           <li>
             <router-link
               class="btn"
-              to="/activity"
+              to="/experience"
             >
-              activity
+              experience
             </router-link>
           </li>
           <li>
             <router-link
               class="btn"
-              to="/projects"
+              to="/activity"
             >
-              projects
+              activity
             </router-link>
           </li>
           <li>
