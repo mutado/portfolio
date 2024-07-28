@@ -37,12 +37,12 @@ const router = createRouter({
                   name: 'projects',
                   component: () => import('../views/ProjectsView.vue'),
                 },
-                {
-                  path: ':projectId',
-                  name: 'project',
-                  component: () => import('../views/ProjectView.vue'),
-                  props: true,
-                },
+                // {
+                //   path: ':projectId',
+                //   name: 'project',
+                //   component: () => import('../views/ProjectView.vue'),
+                //   props: true,
+                // },
               ]
             },
             {
@@ -67,6 +67,11 @@ const router = createRouter({
           name: 'contact',
           component: () => import('../views/ContactView.vue'),
         },
+        {
+          path: ':pathMatch(.*)*',
+          name: 'not-found',
+          component: () => import('../views/NotFoundView.vue'),
+        }
       ],
     },
   ],
