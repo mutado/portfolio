@@ -3,15 +3,17 @@
     class="max-w-prose flex flex-col justify-center grow gap-10 text-balance"
   >
     <p>
-      <span class="block font-bold">
-        Thank you for visiting my portfolio!
-      </span>
+      <span class="block font-bold">Thank you for visiting my portfolio!</span>
       I'm always open to new opportunities and collaborations. Feel free to
       reach out to me through any of the following platforms.
     </p>
     <ul class="flex flex-col gap-2">
       <li>
-        <a href="https://www.linkedin.com/in/nazar-potipaka/">
+        <a
+          href="https://www.linkedin.com/in/nazar-potipaka/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <svg
             class="lucide lucide-linkedin h-12"
             fill="none"
@@ -41,7 +43,11 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/mutado">
+        <a
+          href="https://github.com/mutado"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <svg
             class="lucide lucide-github h-12"
             fill="none"
