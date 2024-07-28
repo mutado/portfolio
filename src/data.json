@@ -1,0 +1,7020 @@
+{
+  "skills": {
+    "laravel": {
+      "label": "Laravel",
+      "level": "advanced",
+      "type": "framework",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "php": {
+      "label": "PHP",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "vue": {
+      "label": "Vue",
+      "level": "advanced",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "js": {
+      "label": "JavaScript",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "ts": {
+      "label": "TypeScript",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "mysql": {
+      "label": "MySQL",
+      "level": "advanced",
+      "type": "database",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "sql": {
+      "label": "SQL",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "api": {
+      "label": "API",
+      "level": "advanced",
+      "type": "technology",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "websockets": {
+      "label": "Websockets",
+      "level": "advanced",
+      "type": "technology",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "tailwind": {
+      "label": "Tailwind",
+      "level": "advanced",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "ai-integration": {
+      "label": "AI",
+      "level": "intermediate",
+      "type": "technology",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "redis": {
+      "label": "Redis",
+      "level": "intermediate",
+      "type": "database",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "webhooks": {
+      "label": "Webhooks",
+      "level": "intermediate",
+      "type": "technology",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "html": {
+      "label": "HTML",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "css": {
+      "label": "CSS",
+      "level": "advanced",
+      "type": "language",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "bootstrap": {
+      "label": "Bootstrap",
+      "level": "advanced",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "electron": {
+      "label": "Electron",
+      "level": "intermediate",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "symfony": {
+      "label": "Symfony",
+      "level": "intermediate",
+      "type": "framework",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "oop": {
+      "label": "OOP",
+      "level": "advanced",
+      "type": "paradigm",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "angular": {
+      "label": "Angular",
+      "level": "intermediate",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "wpf": {
+      "label": "WPF",
+      "level": "intermediate",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "unity": {
+      "label": "Unity",
+      "level": "intermediate",
+      "type": "framework",
+      "categories": [
+        "frontend",
+        "full-stack"
+      ]
+    },
+    "c#": {
+      "label": "C#",
+      "level": "intermediate",
+      "type": "language",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "blade": {
+      "label": "Blade",
+      "level": "advanced",
+      "type": "template engine",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    },
+    "c++": {
+      "label": "C++",
+      "level": "intermediate",
+      "type": "language",
+      "categories": [
+        "backend",
+        "full-stack"
+      ]
+    }
+  },
+  "projects": {
+    "storyflame": {
+      "name": "Storyflame",
+      "website": "https://app.storyflame.io",
+      "links": [],
+      "images": [
+        "/images/storyflame/welcome.png",
+        "/images/storyflame/onboarding.png"
+      ],
+      "start_date": "2024-03-20",
+      "end_date": null,
+      "description": "Storyflame is an AI-powered platform for creating and polishing your stories. Currently working on the development of the platform with a team.",
+      "skills": [
+        "laravel",
+        "ai-integration",
+        "php",
+        "vue",
+        "js",
+        "ts",
+        "mysql",
+        "sql",
+        "api",
+        "websockets",
+        "tailwind"
+      ],
+      "nda": true,
+      "commercial": true,
+      "team_size": "5-10",
+      "team_role": "Lead Full Stack Developer"
+    },
+    "fankind": {
+      "name": "Fankind",
+      "website": "https://fankind.app",
+      "links": [],
+      "start_date": "2023-03-13",
+      "end_date": null,
+      "description": "Fankind is a platform for fans to connect with their favorite creators. Lead the development of the platform from scratch.",
+      "skills": [
+        "laravel",
+        "php",
+        "vue",
+        "js",
+        "ts",
+        "mysql",
+        "sql",
+        "api",
+        "redis",
+        "websockets",
+        "webhooks",
+        "tailwind"
+      ],
+      "nda": true,
+      "commercial": true
+    },
+    "gearplex": {
+      "name": "Gearplex",
+      "website": "https://gearplex.com",
+      "links": [],
+      "start_date": "2023-01-16",
+      "end_date": "2023-03-11",
+      "description": "Gear rental platform for musicians. Joined team as a Middle Full Stack Developer and helped with development of new features and refactoring.",
+      "skills": [
+        "laravel",
+        "php",
+        "vue",
+        "js",
+        "mysql",
+        "sql",
+        "api",
+        "tailwind"
+      ],
+      "nda": true,
+      "commercial": true
+    },
+    "team-photo-cloud": {
+      "name": "Photo Cloud",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/photo-cloud",
+        "https://github.com/mutado/photo-cloud-api"
+      ],
+      "start_date": "2022-11-16",
+      "end_date": "2023-02-01",
+      "description": "ICloud like photo cloud build with Laravel and Vue. Lead our team to create a photo cloud for our school project.",
+      "skills": [
+        "laravel",
+        "vue",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "api"
+      ]
+    },
+    "suppli": {
+      "name": "Suppli",
+      "website": "https://suppli.cloud",
+      "links": [],
+      "start_date": "2022-10-01",
+      "end_date": "2023-12-20",
+      "description": "Suppli is a cloud-based inventory management system for small and medium-sized businesses. Worked on the backend refactoring and new features.",
+      "skills": [
+        "laravel",
+        "php",
+        "mysql",
+        "sql",
+        "api",
+        "websockets",
+        "webhooks"
+      ],
+      "commercial": true
+    },
+    "personal-symfony-news": {
+      "name": "Symfony News Scrapper",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/symfony_app"
+      ],
+      "start_date": "2022-03-07",
+      "end_date": "2022-06-13",
+      "description": "News scrapper build with Symfony."
+    },
+    "sjoeff-printer-app": {
+      "name": "Sjoeff Printer App",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/sjoeff-printer-app"
+      ],
+      "start_date": "2021-06-01",
+      "end_date": "2021-07-01",
+      "description": "Label printer app automation for Sjoeff. Built on Electron and Vue.",
+      "skills": [
+        "electron",
+        "vue",
+        "js",
+        "html",
+        "css"
+      ],
+      "commercial": true
+    },
+    "sjoeff": {
+      "name": "Sjoeff",
+      "website": "https://sjoeff.nl",
+      "links": [],
+      "start_date": "2021-04-21",
+      "end_date": "2022-07-30",
+      "description": "Parcel tracking and automation system for e-commerce. Built with Laravel, Vue and Bootstrap.",
+      "skills": [
+        "laravel",
+        "vue",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "bootstrap",
+        "api",
+        "websockets",
+        "webhooks"
+      ],
+      "commercial": true
+    },
+    "toplock-stockstystem": {
+      "name": "Toplock Stock System",
+      "website": "https://toplock-stockstystem.nl",
+      "links": [],
+      "start_date": "2021-03-20",
+      "end_date": "2021-04-20",
+      "description": "Stock inventory system for a locksmith company. Built with Laravel, Vue and Bootstrap.",
+      "skills": [
+        "laravel",
+        "vue",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "bootstrap"
+      ],
+      "commercial": true
+    },
+    "personal-petsitter": {
+      "name": "Pet Sitter",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/petsitter"
+      ],
+      "start_date": "2021-04-01",
+      "end_date": "2021-05-01",
+      "description": "Pet sitter app build with Laravel, Blade and Bootstrap.",
+      "skills": [
+        "laravel",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "blade",
+        "bootstrap"
+      ]
+    },
+    "personal-bankown-wpf": {
+      "name": "Bankown WPF",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/Bankown-WPF"
+      ],
+      "start_date": "2021-01-01",
+      "end_date": "2021-02-01",
+      "description": "Bank system build using WPF using API from previous project. Built to learn how to work with WPF and C#.",
+      "skills": [
+        "wpf",
+        "c#",
+        "api"
+      ]
+    },
+    "personal-bankown": {
+      "name": "Bankown",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/bankown"
+      ],
+      "start_date": "2020-12-01",
+      "end_date": "2021-01-01",
+      "description": "A simple bank system build with Laravel and Vue. Built to learn how to create a RESTful API and work with Vue and Laravel within same project.",
+      "skills": [
+        "laravel",
+        "vue",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "api",
+        "bootstrap"
+      ]
+    },
+    "personal-todo": {
+      "name": "To-do",
+      "website": null,
+      "description": "IOS like todo app build with Angular.",
+      "links": [
+        "https://github.com/mutado/ng-todo"
+      ],
+      "start_date": "2020-09-01",
+      "end_date": "2020-10-01",
+      "skills": [
+        "angular",
+        "ts",
+        "js",
+        "html",
+        "css",
+        "bootstrap"
+      ]
+    },
+    "testing-mmg-project": {
+      "name": "MMG Project",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/mmg-project"
+      ],
+      "start_date": "2020-07-12",
+      "end_date": "2020-07-16",
+      "description": "Test assignment for MassMedia Group. Forum build with Laravel and Blade.",
+      "skills": [
+        "laravel",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "blade"
+      ]
+    },
+    "personal-space-game": {
+      "name": "Space Game",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/space"
+      ],
+      "start_date": "2020-07-01",
+      "end_date": "2020-09-01",
+      "description": "Space Game build on Unity. Learned how to work with Unity and C#.",
+      "skills": [
+        "unity",
+        "c#",
+        "oop"
+      ]
+    },
+    "team-todo": {
+      "name": "Todo",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/Todo"
+      ],
+      "start_date": "2020-06-01",
+      "end_date": "2020-07-01",
+      "description": "Todo app in the form of a game build with Laravel and Angular for a team project.",
+      "skills": [
+        "laravel",
+        "angular",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "api"
+      ]
+    },
+    "personal-messenger": {
+      "name": "Messenger",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/Messenger-Web",
+        "https://github.com/mutado/Messenger"
+      ],
+      "start_date": "2020-04-01",
+      "end_date": "2020-05-01",
+      "description": "A simple messenger app build with Laravel and Angular. It has a real-time chat and user authentication. Built to learn how to work with websockets and Angular.",
+      "skills": [
+        "laravel",
+        "angular",
+        "redis",
+        "websockets",
+        "angular",
+        "js",
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css",
+        "api"
+      ]
+    },
+    "personal-asp-shop": {
+      "name": "ASP Shop",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/ASP_SHOP"
+      ],
+      "start_date": "2019-12-01",
+      "end_date": "2020-01-01",
+      "description": ""
+    },
+    "personal-shop-c": {
+      "name": "C++ Console Shop Admin",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/shop-c-"
+      ],
+      "start_date": "2019-10-01",
+      "end_date": "2019-11-01",
+      "description": "Console shop admin panel build on C++ using PHP shop API from previous project. Learned how to work with C++ and how to communicate with APIs.",
+      "skills": [
+        "c++",
+        "api",
+        "oop"
+      ]
+    },
+    "personal-shop-api": {
+      "name": "PHP Shop API",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/shop"
+      ],
+      "start_date": "2019-09-01",
+      "end_date": "2019-11-01",
+      "description": "A simple shop API build with PHP and MySQL. Learned hot to create a RESTful API and work with databases.",
+      "skills": [
+        "php",
+        "mysql",
+        "sql",
+        "api"
+      ]
+    },
+    "personal-forum": {
+      "name": "PHP Forum",
+      "website": null,
+      "links": [
+        "https://github.com/mutado/forum"
+      ],
+      "start_date": "2019-08-01",
+      "end_date": "2019-09-01",
+      "description": "A simple forum build with PHP and MySQL. Built to learn how to work with databases and PHP.",
+      "skills": [
+        "php",
+        "mysql",
+        "sql",
+        "html",
+        "css"
+      ]
+    }
+  },
+  "companies": [
+    {
+      "slug": "hidden-planet-productions",
+      "name": "Hidden Planet Productions",
+      "location": "Los Angeles, California, United States",
+      "remote": true,
+      "website": "https://hiddenplanetproductions.com",
+      "start_date": "2023-01-16",
+      "end_date": null,
+      "type": "full-time",
+      "team_size": "5-10",
+      "projects": [
+        "fankind",
+        "gearplex"
+      ],
+      "positions": [
+        {
+          "title": "Lead Full Stack Developer"
+        },
+        {
+          "title": "Middle Full Stack Developer"
+        }
+      ]
+    },
+    {
+      "slug": "avilo",
+      "name": "avilo",
+      "location": "Larvik, Vestfold og Telemark",
+      "remote": true,
+      "website": "https://www.avilo.no",
+      "start_date": "2022-10-01",
+      "end_date": "2023-12-20",
+      "type": "part-time",
+      "team_size": "10-20",
+      "projects": [
+        "suppli"
+      ],
+      "positions": [
+        {
+          "title": "Middle Backend Developer"
+        }
+      ]
+    },
+    {
+      "slug": "toplock-nl",
+      "name": "Toplock NL",
+      "location": "Woubrugge, Zuid-Holland",
+      "remote": true,
+      "website": "https://toplock.nl",
+      "start_date": "2021-04-01",
+      "end_date": "2022-07-30",
+      "type": "part-time",
+      "team_size": "5-10",
+      "projects": [
+        "toplock-stockstystem",
+        "sjoeff",
+        "sjoeff-printer-app"
+      ],
+      "positions": [
+        {
+          "title": "Junior Full Stack Developer"
+        }
+      ]
+    },
+    {
+      "slug": "freelance",
+      "name": "Freelance",
+      "location": "Worldwide",
+      "remote": true,
+      "website": null,
+      "start_date": "2020-12-01",
+      "end_date": "2021-03-31",
+      "type": "self-employed",
+      "team_size": "1",
+      "positions": [
+        {
+          "title": "Junior Full Stack Developer"
+        }
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "slug": "upsl",
+      "name": "Pomeranian University in Słupsk",
+      "type": "university",
+      "location": "Słupsk, Pomeranian Voivodeship",
+      "website": "https://www.upsl.edu.pl",
+      "start_date": "2020-10-01",
+      "end_date": "2024-02-28",
+      "degree": "Bachelor's degree",
+      "field_of_study": "Computer Science",
+      "diplomas": [
+        {
+          "name": "Bachelor of Engineering",
+          "short": "B.Eng.",
+          "field_of_study": "Computer Science",
+          "date": "2024-07-02",
+          "grade": "4.2",
+          "thesis": {
+            "title": "A system for building application backends in no-code technology",
+            "grade": "A"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "itstep",
+      "name": "IT Step Academy",
+      "type": "course",
+      "location": "Khmelnystsky, Ukraine",
+      "website": "https://itstep.org",
+      "start_date": "2018-09-01",
+      "end_date": "2021-02-28",
+      "degree": "Certificate",
+      "field_of_study": "Software Development",
+      "grade": "A",
+      "diplomas": [
+        {
+          "name": "Cisco IT Essentials",
+          "short": "IT Essentials",
+          "date": "2020-07-30",
+          "grade": "A"
+        },
+        {
+          "name": "Cerificate of Completion",
+          "short": "Completion",
+          "date": "2021-02-28",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "slug": "khmelnystsky-lyceum",
+      "name": "Khmelnystsky Lyceum",
+      "type": "high-school",
+      "location": "Khmelnystsky, Ukraine",
+      "website": null,
+      "start_date": "2018-09-01",
+      "end_date": "2020-07-30",
+      "degree": "High School Diploma",
+      "field_of_study": "History",
+      "grade": "A",
+      "diplomas": [
+        {
+          "name": "High School Diploma",
+          "short": "Diploma",
+          "date": "2020-07-30",
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "slug": "khmelnytsky-school-22",
+      "name": "Khmelnytsky School 22",
+      "type": "middle-school",
+      "location": "Khmelnytsky, Ukraine",
+      "website": null,
+      "start_date": "2009-09-01",
+      "end_date": "2018-07-30",
+      "degree": "Middle School Diploma",
+      "field_of_study": "General",
+      "grade": "A",
+      "diplomas": [
+        {
+          "name": "Middle School Diploma",
+          "short": "Diploma",
+          "date": "2018-07-30",
+          "grade": "A"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "C1"
+    },
+    {
+      "name": "Polish",
+      "level": "B2"
+    },
+    {
+      "name": "Ukrainian",
+      "level": "C2"
+    }
+  ],
+  "temp": {
+    "data": [
+      {
+        "range": {
+          "start": "2023-06-22T22:00:00Z",
+          "end": "2023-06-23T21:59:59Z",
+          "date": "2023-06-23",
+          "text": "Fri Jun 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-23T22:00:00Z",
+          "end": "2023-06-24T21:59:59Z",
+          "date": "2023-06-24",
+          "text": "Sat Jun 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-24T22:00:00Z",
+          "end": "2023-06-25T21:59:59Z",
+          "date": "2023-06-25",
+          "text": "Sun Jun 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-25T22:00:00Z",
+          "end": "2023-06-26T21:59:59Z",
+          "date": "2023-06-26",
+          "text": "Mon Jun 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-26T22:00:00Z",
+          "end": "2023-06-27T21:59:59Z",
+          "date": "2023-06-27",
+          "text": "Tue Jun 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-27T22:00:00Z",
+          "end": "2023-06-28T21:59:59Z",
+          "date": "2023-06-28",
+          "text": "Wed Jun 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-28T22:00:00Z",
+          "end": "2023-06-29T21:59:59Z",
+          "date": "2023-06-29",
+          "text": "Thu Jun 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-29T22:00:00Z",
+          "end": "2023-06-30T21:59:59Z",
+          "date": "2023-06-30",
+          "text": "Fri Jun 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-06-30T22:00:00Z",
+          "end": "2023-07-01T21:59:59Z",
+          "date": "2023-07-01",
+          "text": "Sat Jul 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-01T22:00:00Z",
+          "end": "2023-07-02T21:59:59Z",
+          "date": "2023-07-02",
+          "text": "Sun Jul 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-02T22:00:00Z",
+          "end": "2023-07-03T21:59:59Z",
+          "date": "2023-07-03",
+          "text": "Mon Jul 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-03T22:00:00Z",
+          "end": "2023-07-04T21:59:59Z",
+          "date": "2023-07-04",
+          "text": "Tue Jul 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-04T22:00:00Z",
+          "end": "2023-07-05T21:59:59Z",
+          "date": "2023-07-05",
+          "text": "Wed Jul 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-05T22:00:00Z",
+          "end": "2023-07-06T21:59:59Z",
+          "date": "2023-07-06",
+          "text": "Thu Jul 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-06T22:00:00Z",
+          "end": "2023-07-07T21:59:59Z",
+          "date": "2023-07-07",
+          "text": "Fri Jul 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-07T22:00:00Z",
+          "end": "2023-07-08T21:59:59Z",
+          "date": "2023-07-08",
+          "text": "Sat Jul 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-08T22:00:00Z",
+          "end": "2023-07-09T21:59:59Z",
+          "date": "2023-07-09",
+          "text": "Sun Jul 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-09T22:00:00Z",
+          "end": "2023-07-10T21:59:59Z",
+          "date": "2023-07-10",
+          "text": "Mon Jul 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-10T22:00:00Z",
+          "end": "2023-07-11T21:59:59Z",
+          "date": "2023-07-11",
+          "text": "Tue Jul 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-11T22:00:00Z",
+          "end": "2023-07-12T21:59:59Z",
+          "date": "2023-07-12",
+          "text": "Wed Jul 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-12T22:00:00Z",
+          "end": "2023-07-13T21:59:59Z",
+          "date": "2023-07-13",
+          "text": "Thu Jul 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-13T22:00:00Z",
+          "end": "2023-07-14T21:59:59Z",
+          "date": "2023-07-14",
+          "text": "Fri Jul 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-14T22:00:00Z",
+          "end": "2023-07-15T21:59:59Z",
+          "date": "2023-07-15",
+          "text": "Sat Jul 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-15T22:00:00Z",
+          "end": "2023-07-16T21:59:59Z",
+          "date": "2023-07-16",
+          "text": "Sun Jul 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-16T22:00:00Z",
+          "end": "2023-07-17T21:59:59Z",
+          "date": "2023-07-17",
+          "text": "Mon Jul 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-17T22:00:00Z",
+          "end": "2023-07-18T21:59:59Z",
+          "date": "2023-07-18",
+          "text": "Tue Jul 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-18T22:00:00Z",
+          "end": "2023-07-19T21:59:59Z",
+          "date": "2023-07-19",
+          "text": "Wed Jul 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-19T22:00:00Z",
+          "end": "2023-07-20T21:59:59Z",
+          "date": "2023-07-20",
+          "text": "Thu Jul 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-20T22:00:00Z",
+          "end": "2023-07-21T21:59:59Z",
+          "date": "2023-07-21",
+          "text": "Fri Jul 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-21T22:00:00Z",
+          "end": "2023-07-22T21:59:59Z",
+          "date": "2023-07-22",
+          "text": "Sat Jul 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-22T22:00:00Z",
+          "end": "2023-07-23T21:59:59Z",
+          "date": "2023-07-23",
+          "text": "Sun Jul 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-23T22:00:00Z",
+          "end": "2023-07-24T21:59:59Z",
+          "date": "2023-07-24",
+          "text": "Mon Jul 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-24T22:00:00Z",
+          "end": "2023-07-25T21:59:59Z",
+          "date": "2023-07-25",
+          "text": "Tue Jul 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-25T22:00:00Z",
+          "end": "2023-07-26T21:59:59Z",
+          "date": "2023-07-26",
+          "text": "Wed Jul 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-26T22:00:00Z",
+          "end": "2023-07-27T21:59:59Z",
+          "date": "2023-07-27",
+          "text": "Thu Jul 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-27T22:00:00Z",
+          "end": "2023-07-28T21:59:59Z",
+          "date": "2023-07-28",
+          "text": "Fri Jul 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-28T22:00:00Z",
+          "end": "2023-07-29T21:59:59Z",
+          "date": "2023-07-29",
+          "text": "Sat Jul 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-29T22:00:00Z",
+          "end": "2023-07-30T21:59:59Z",
+          "date": "2023-07-30",
+          "text": "Sun Jul 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-30T22:00:00Z",
+          "end": "2023-07-31T21:59:59Z",
+          "date": "2023-07-31",
+          "text": "Mon Jul 31st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-07-31T22:00:00Z",
+          "end": "2023-08-01T21:59:59Z",
+          "date": "2023-08-01",
+          "text": "Tue Aug 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-01T22:00:00Z",
+          "end": "2023-08-02T21:59:59Z",
+          "date": "2023-08-02",
+          "text": "Wed Aug 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-02T22:00:00Z",
+          "end": "2023-08-03T21:59:59Z",
+          "date": "2023-08-03",
+          "text": "Thu Aug 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-03T22:00:00Z",
+          "end": "2023-08-04T21:59:59Z",
+          "date": "2023-08-04",
+          "text": "Fri Aug 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-04T22:00:00Z",
+          "end": "2023-08-05T21:59:59Z",
+          "date": "2023-08-05",
+          "text": "Sat Aug 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-05T22:00:00Z",
+          "end": "2023-08-06T21:59:59Z",
+          "date": "2023-08-06",
+          "text": "Sun Aug 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-06T22:00:00Z",
+          "end": "2023-08-07T21:59:59Z",
+          "date": "2023-08-07",
+          "text": "Mon Aug 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-07T22:00:00Z",
+          "end": "2023-08-08T21:59:59Z",
+          "date": "2023-08-08",
+          "text": "Tue Aug 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-08T22:00:00Z",
+          "end": "2023-08-09T21:59:59Z",
+          "date": "2023-08-09",
+          "text": "Wed Aug 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-09T22:00:00Z",
+          "end": "2023-08-10T21:59:59Z",
+          "date": "2023-08-10",
+          "text": "Thu Aug 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-10T22:00:00Z",
+          "end": "2023-08-11T21:59:59Z",
+          "date": "2023-08-11",
+          "text": "Fri Aug 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-11T22:00:00Z",
+          "end": "2023-08-12T21:59:59Z",
+          "date": "2023-08-12",
+          "text": "Sat Aug 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-12T22:00:00Z",
+          "end": "2023-08-13T21:59:59Z",
+          "date": "2023-08-13",
+          "text": "Sun Aug 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-13T22:00:00Z",
+          "end": "2023-08-14T21:59:59Z",
+          "date": "2023-08-14",
+          "text": "Mon Aug 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-14T22:00:00Z",
+          "end": "2023-08-15T21:59:59Z",
+          "date": "2023-08-15",
+          "text": "Tue Aug 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-15T22:00:00Z",
+          "end": "2023-08-16T21:59:59Z",
+          "date": "2023-08-16",
+          "text": "Wed Aug 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-16T22:00:00Z",
+          "end": "2023-08-17T21:59:59Z",
+          "date": "2023-08-17",
+          "text": "Thu Aug 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-17T22:00:00Z",
+          "end": "2023-08-18T21:59:59Z",
+          "date": "2023-08-18",
+          "text": "Fri Aug 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-18T22:00:00Z",
+          "end": "2023-08-19T21:59:59Z",
+          "date": "2023-08-19",
+          "text": "Sat Aug 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-19T22:00:00Z",
+          "end": "2023-08-20T21:59:59Z",
+          "date": "2023-08-20",
+          "text": "Sun Aug 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-20T22:00:00Z",
+          "end": "2023-08-21T21:59:59Z",
+          "date": "2023-08-21",
+          "text": "Mon Aug 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-21T22:00:00Z",
+          "end": "2023-08-22T21:59:59Z",
+          "date": "2023-08-22",
+          "text": "Tue Aug 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-22T22:00:00Z",
+          "end": "2023-08-23T21:59:59Z",
+          "date": "2023-08-23",
+          "text": "Wed Aug 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-23T22:00:00Z",
+          "end": "2023-08-24T21:59:59Z",
+          "date": "2023-08-24",
+          "text": "Thu Aug 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-24T22:00:00Z",
+          "end": "2023-08-25T21:59:59Z",
+          "date": "2023-08-25",
+          "text": "Fri Aug 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-25T22:00:00Z",
+          "end": "2023-08-26T21:59:59Z",
+          "date": "2023-08-26",
+          "text": "Sat Aug 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-26T22:00:00Z",
+          "end": "2023-08-27T21:59:59Z",
+          "date": "2023-08-27",
+          "text": "Sun Aug 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-27T22:00:00Z",
+          "end": "2023-08-28T21:59:59Z",
+          "date": "2023-08-28",
+          "text": "Mon Aug 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-28T22:00:00Z",
+          "end": "2023-08-29T21:59:59Z",
+          "date": "2023-08-29",
+          "text": "Tue Aug 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-29T22:00:00Z",
+          "end": "2023-08-30T21:59:59Z",
+          "date": "2023-08-30",
+          "text": "Wed Aug 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-30T22:00:00Z",
+          "end": "2023-08-31T21:59:59Z",
+          "date": "2023-08-31",
+          "text": "Thu Aug 31st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-08-31T22:00:00Z",
+          "end": "2023-09-01T21:59:59Z",
+          "date": "2023-09-01",
+          "text": "Fri Sep 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-01T22:00:00Z",
+          "end": "2023-09-02T21:59:59Z",
+          "date": "2023-09-02",
+          "text": "Sat Sep 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-02T22:00:00Z",
+          "end": "2023-09-03T21:59:59Z",
+          "date": "2023-09-03",
+          "text": "Sun Sep 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-03T22:00:00Z",
+          "end": "2023-09-04T21:59:59Z",
+          "date": "2023-09-04",
+          "text": "Mon Sep 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-04T22:00:00Z",
+          "end": "2023-09-05T21:59:59Z",
+          "date": "2023-09-05",
+          "text": "Tue Sep 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-05T22:00:00Z",
+          "end": "2023-09-06T21:59:59Z",
+          "date": "2023-09-06",
+          "text": "Wed Sep 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-06T22:00:00Z",
+          "end": "2023-09-07T21:59:59Z",
+          "date": "2023-09-07",
+          "text": "Thu Sep 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-07T22:00:00Z",
+          "end": "2023-09-08T21:59:59Z",
+          "date": "2023-09-08",
+          "text": "Fri Sep 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-08T22:00:00Z",
+          "end": "2023-09-09T21:59:59Z",
+          "date": "2023-09-09",
+          "text": "Sat Sep 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-09T22:00:00Z",
+          "end": "2023-09-10T21:59:59Z",
+          "date": "2023-09-10",
+          "text": "Sun Sep 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-10T22:00:00Z",
+          "end": "2023-09-11T21:59:59Z",
+          "date": "2023-09-11",
+          "text": "Mon Sep 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-11T22:00:00Z",
+          "end": "2023-09-12T21:59:59Z",
+          "date": "2023-09-12",
+          "text": "Tue Sep 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-12T22:00:00Z",
+          "end": "2023-09-13T21:59:59Z",
+          "date": "2023-09-13",
+          "text": "Wed Sep 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-13T22:00:00Z",
+          "end": "2023-09-14T21:59:59Z",
+          "date": "2023-09-14",
+          "text": "Thu Sep 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-14T22:00:00Z",
+          "end": "2023-09-15T21:59:59Z",
+          "date": "2023-09-15",
+          "text": "Fri Sep 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-15T22:00:00Z",
+          "end": "2023-09-16T21:59:59Z",
+          "date": "2023-09-16",
+          "text": "Sat Sep 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-16T22:00:00Z",
+          "end": "2023-09-17T21:59:59Z",
+          "date": "2023-09-17",
+          "text": "Sun Sep 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-17T22:00:00Z",
+          "end": "2023-09-18T21:59:59Z",
+          "date": "2023-09-18",
+          "text": "Mon Sep 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-18T22:00:00Z",
+          "end": "2023-09-19T21:59:59Z",
+          "date": "2023-09-19",
+          "text": "Tue Sep 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-19T22:00:00Z",
+          "end": "2023-09-20T21:59:59Z",
+          "date": "2023-09-20",
+          "text": "Wed Sep 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-20T22:00:00Z",
+          "end": "2023-09-21T21:59:59Z",
+          "date": "2023-09-21",
+          "text": "Thu Sep 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-21T22:00:00Z",
+          "end": "2023-09-22T21:59:59Z",
+          "date": "2023-09-22",
+          "text": "Fri Sep 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-22T22:00:00Z",
+          "end": "2023-09-23T21:59:59Z",
+          "date": "2023-09-23",
+          "text": "Sat Sep 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-23T22:00:00Z",
+          "end": "2023-09-24T21:59:59Z",
+          "date": "2023-09-24",
+          "text": "Sun Sep 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-24T22:00:00Z",
+          "end": "2023-09-25T21:59:59Z",
+          "date": "2023-09-25",
+          "text": "Mon Sep 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-25T22:00:00Z",
+          "end": "2023-09-26T21:59:59Z",
+          "date": "2023-09-26",
+          "text": "Tue Sep 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-26T22:00:00Z",
+          "end": "2023-09-27T21:59:59Z",
+          "date": "2023-09-27",
+          "text": "Wed Sep 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-27T22:00:00Z",
+          "end": "2023-09-28T21:59:59Z",
+          "date": "2023-09-28",
+          "text": "Thu Sep 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-28T22:00:00Z",
+          "end": "2023-09-29T21:59:59Z",
+          "date": "2023-09-29",
+          "text": "Fri Sep 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-29T22:00:00Z",
+          "end": "2023-09-30T21:59:59Z",
+          "date": "2023-09-30",
+          "text": "Sat Sep 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-09-30T22:00:00Z",
+          "end": "2023-10-01T21:59:59Z",
+          "date": "2023-10-01",
+          "text": "Sun Oct 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-01T22:00:00Z",
+          "end": "2023-10-02T21:59:59Z",
+          "date": "2023-10-02",
+          "text": "Mon Oct 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-02T22:00:00Z",
+          "end": "2023-10-03T21:59:59Z",
+          "date": "2023-10-03",
+          "text": "Tue Oct 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-03T22:00:00Z",
+          "end": "2023-10-04T21:59:59Z",
+          "date": "2023-10-04",
+          "text": "Wed Oct 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-04T22:00:00Z",
+          "end": "2023-10-05T21:59:59Z",
+          "date": "2023-10-05",
+          "text": "Thu Oct 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-05T22:00:00Z",
+          "end": "2023-10-06T21:59:59Z",
+          "date": "2023-10-06",
+          "text": "Fri Oct 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-06T22:00:00Z",
+          "end": "2023-10-07T21:59:59Z",
+          "date": "2023-10-07",
+          "text": "Sat Oct 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-07T22:00:00Z",
+          "end": "2023-10-08T21:59:59Z",
+          "date": "2023-10-08",
+          "text": "Sun Oct 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-08T22:00:00Z",
+          "end": "2023-10-09T21:59:59Z",
+          "date": "2023-10-09",
+          "text": "Mon Oct 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-09T22:00:00Z",
+          "end": "2023-10-10T21:59:59Z",
+          "date": "2023-10-10",
+          "text": "Tue Oct 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-10T22:00:00Z",
+          "end": "2023-10-11T21:59:59Z",
+          "date": "2023-10-11",
+          "text": "Wed Oct 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-11T22:00:00Z",
+          "end": "2023-10-12T21:59:59Z",
+          "date": "2023-10-12",
+          "text": "Thu Oct 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-12T22:00:00Z",
+          "end": "2023-10-13T21:59:59Z",
+          "date": "2023-10-13",
+          "text": "Fri Oct 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-13T22:00:00Z",
+          "end": "2023-10-14T21:59:59Z",
+          "date": "2023-10-14",
+          "text": "Sat Oct 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-14T22:00:00Z",
+          "end": "2023-10-15T21:59:59Z",
+          "date": "2023-10-15",
+          "text": "Sun Oct 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-15T22:00:00Z",
+          "end": "2023-10-16T21:59:59Z",
+          "date": "2023-10-16",
+          "text": "Mon Oct 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-16T22:00:00Z",
+          "end": "2023-10-17T21:59:59Z",
+          "date": "2023-10-17",
+          "text": "Tue Oct 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-17T22:00:00Z",
+          "end": "2023-10-18T21:59:59Z",
+          "date": "2023-10-18",
+          "text": "Wed Oct 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-18T22:00:00Z",
+          "end": "2023-10-19T21:59:59Z",
+          "date": "2023-10-19",
+          "text": "Thu Oct 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-19T22:00:00Z",
+          "end": "2023-10-20T21:59:59Z",
+          "date": "2023-10-20",
+          "text": "Fri Oct 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-20T22:00:00Z",
+          "end": "2023-10-21T21:59:59Z",
+          "date": "2023-10-21",
+          "text": "Sat Oct 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-21T22:00:00Z",
+          "end": "2023-10-22T21:59:59Z",
+          "date": "2023-10-22",
+          "text": "Sun Oct 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-22T22:00:00Z",
+          "end": "2023-10-23T21:59:59Z",
+          "date": "2023-10-23",
+          "text": "Mon Oct 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-23T22:00:00Z",
+          "end": "2023-10-24T21:59:59Z",
+          "date": "2023-10-24",
+          "text": "Tue Oct 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-24T22:00:00Z",
+          "end": "2023-10-25T21:59:59Z",
+          "date": "2023-10-25",
+          "text": "Wed Oct 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-25T22:00:00Z",
+          "end": "2023-10-26T21:59:59Z",
+          "date": "2023-10-26",
+          "text": "Thu Oct 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-26T22:00:00Z",
+          "end": "2023-10-27T21:59:59Z",
+          "date": "2023-10-27",
+          "text": "Fri Oct 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-27T22:00:00Z",
+          "end": "2023-10-28T21:59:59Z",
+          "date": "2023-10-28",
+          "text": "Sat Oct 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-28T22:00:00Z",
+          "end": "2023-10-29T22:59:59Z",
+          "date": "2023-10-29",
+          "text": "Sun Oct 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-29T23:00:00Z",
+          "end": "2023-10-30T22:59:59Z",
+          "date": "2023-10-30",
+          "text": "Mon Oct 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-30T23:00:00Z",
+          "end": "2023-10-31T22:59:59Z",
+          "date": "2023-10-31",
+          "text": "Tue Oct 31st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-10-31T23:00:00Z",
+          "end": "2023-11-01T22:59:59Z",
+          "date": "2023-11-01",
+          "text": "Wed Nov 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-01T23:00:00Z",
+          "end": "2023-11-02T22:59:59Z",
+          "date": "2023-11-02",
+          "text": "Thu Nov 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-02T23:00:00Z",
+          "end": "2023-11-03T22:59:59Z",
+          "date": "2023-11-03",
+          "text": "Fri Nov 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-03T23:00:00Z",
+          "end": "2023-11-04T22:59:59Z",
+          "date": "2023-11-04",
+          "text": "Sat Nov 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-04T23:00:00Z",
+          "end": "2023-11-05T22:59:59Z",
+          "date": "2023-11-05",
+          "text": "Sun Nov 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-05T23:00:00Z",
+          "end": "2023-11-06T22:59:59Z",
+          "date": "2023-11-06",
+          "text": "Mon Nov 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-06T23:00:00Z",
+          "end": "2023-11-07T22:59:59Z",
+          "date": "2023-11-07",
+          "text": "Tue Nov 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-07T23:00:00Z",
+          "end": "2023-11-08T22:59:59Z",
+          "date": "2023-11-08",
+          "text": "Wed Nov 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-08T23:00:00Z",
+          "end": "2023-11-09T22:59:59Z",
+          "date": "2023-11-09",
+          "text": "Thu Nov 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-09T23:00:00Z",
+          "end": "2023-11-10T22:59:59Z",
+          "date": "2023-11-10",
+          "text": "Fri Nov 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-10T23:00:00Z",
+          "end": "2023-11-11T22:59:59Z",
+          "date": "2023-11-11",
+          "text": "Sat Nov 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-11T23:00:00Z",
+          "end": "2023-11-12T22:59:59Z",
+          "date": "2023-11-12",
+          "text": "Sun Nov 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-12T23:00:00Z",
+          "end": "2023-11-13T22:59:59Z",
+          "date": "2023-11-13",
+          "text": "Mon Nov 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-13T23:00:00Z",
+          "end": "2023-11-14T22:59:59Z",
+          "date": "2023-11-14",
+          "text": "Tue Nov 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-14T23:00:00Z",
+          "end": "2023-11-15T22:59:59Z",
+          "date": "2023-11-15",
+          "text": "Wed Nov 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-15T23:00:00Z",
+          "end": "2023-11-16T22:59:59Z",
+          "date": "2023-11-16",
+          "text": "Thu Nov 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-16T23:00:00Z",
+          "end": "2023-11-17T22:59:59Z",
+          "date": "2023-11-17",
+          "text": "Fri Nov 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-17T23:00:00Z",
+          "end": "2023-11-18T22:59:59Z",
+          "date": "2023-11-18",
+          "text": "Sat Nov 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-18T23:00:00Z",
+          "end": "2023-11-19T22:59:59Z",
+          "date": "2023-11-19",
+          "text": "Sun Nov 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-19T23:00:00Z",
+          "end": "2023-11-20T22:59:59Z",
+          "date": "2023-11-20",
+          "text": "Mon Nov 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-20T23:00:00Z",
+          "end": "2023-11-21T22:59:59Z",
+          "date": "2023-11-21",
+          "text": "Tue Nov 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-21T23:00:00Z",
+          "end": "2023-11-22T22:59:59Z",
+          "date": "2023-11-22",
+          "text": "Wed Nov 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-22T23:00:00Z",
+          "end": "2023-11-23T22:59:59Z",
+          "date": "2023-11-23",
+          "text": "Thu Nov 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-23T23:00:00Z",
+          "end": "2023-11-24T22:59:59Z",
+          "date": "2023-11-24",
+          "text": "Fri Nov 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-24T23:00:00Z",
+          "end": "2023-11-25T22:59:59Z",
+          "date": "2023-11-25",
+          "text": "Sat Nov 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-25T23:00:00Z",
+          "end": "2023-11-26T22:59:59Z",
+          "date": "2023-11-26",
+          "text": "Sun Nov 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-26T23:00:00Z",
+          "end": "2023-11-27T22:59:59Z",
+          "date": "2023-11-27",
+          "text": "Mon Nov 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-27T23:00:00Z",
+          "end": "2023-11-28T22:59:59Z",
+          "date": "2023-11-28",
+          "text": "Tue Nov 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-28T23:00:00Z",
+          "end": "2023-11-29T22:59:59Z",
+          "date": "2023-11-29",
+          "text": "Wed Nov 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-29T23:00:00Z",
+          "end": "2023-11-30T22:59:59Z",
+          "date": "2023-11-30",
+          "text": "Thu Nov 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-11-30T23:00:00Z",
+          "end": "2023-12-01T22:59:59Z",
+          "date": "2023-12-01",
+          "text": "Fri Dec 1st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-01T23:00:00Z",
+          "end": "2023-12-02T22:59:59Z",
+          "date": "2023-12-02",
+          "text": "Sat Dec 2nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-02T23:00:00Z",
+          "end": "2023-12-03T22:59:59Z",
+          "date": "2023-12-03",
+          "text": "Sun Dec 3rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-03T23:00:00Z",
+          "end": "2023-12-04T22:59:59Z",
+          "date": "2023-12-04",
+          "text": "Mon Dec 4th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-04T23:00:00Z",
+          "end": "2023-12-05T22:59:59Z",
+          "date": "2023-12-05",
+          "text": "Tue Dec 5th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-05T23:00:00Z",
+          "end": "2023-12-06T22:59:59Z",
+          "date": "2023-12-06",
+          "text": "Wed Dec 6th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-06T23:00:00Z",
+          "end": "2023-12-07T22:59:59Z",
+          "date": "2023-12-07",
+          "text": "Thu Dec 7th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-07T23:00:00Z",
+          "end": "2023-12-08T22:59:59Z",
+          "date": "2023-12-08",
+          "text": "Fri Dec 8th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-08T23:00:00Z",
+          "end": "2023-12-09T22:59:59Z",
+          "date": "2023-12-09",
+          "text": "Sat Dec 9th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-09T23:00:00Z",
+          "end": "2023-12-10T22:59:59Z",
+          "date": "2023-12-10",
+          "text": "Sun Dec 10th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-10T23:00:00Z",
+          "end": "2023-12-11T22:59:59Z",
+          "date": "2023-12-11",
+          "text": "Mon Dec 11th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-11T23:00:00Z",
+          "end": "2023-12-12T22:59:59Z",
+          "date": "2023-12-12",
+          "text": "Tue Dec 12th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-12T23:00:00Z",
+          "end": "2023-12-13T22:59:59Z",
+          "date": "2023-12-13",
+          "text": "Wed Dec 13th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-13T23:00:00Z",
+          "end": "2023-12-14T22:59:59Z",
+          "date": "2023-12-14",
+          "text": "Thu Dec 14th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-14T23:00:00Z",
+          "end": "2023-12-15T22:59:59Z",
+          "date": "2023-12-15",
+          "text": "Fri Dec 15th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-15T23:00:00Z",
+          "end": "2023-12-16T22:59:59Z",
+          "date": "2023-12-16",
+          "text": "Sat Dec 16th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-16T23:00:00Z",
+          "end": "2023-12-17T22:59:59Z",
+          "date": "2023-12-17",
+          "text": "Sun Dec 17th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-17T23:00:00Z",
+          "end": "2023-12-18T22:59:59Z",
+          "date": "2023-12-18",
+          "text": "Mon Dec 18th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-18T23:00:00Z",
+          "end": "2023-12-19T22:59:59Z",
+          "date": "2023-12-19",
+          "text": "Tue Dec 19th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-19T23:00:00Z",
+          "end": "2023-12-20T22:59:59Z",
+          "date": "2023-12-20",
+          "text": "Wed Dec 20th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-20T23:00:00Z",
+          "end": "2023-12-21T22:59:59Z",
+          "date": "2023-12-21",
+          "text": "Thu Dec 21st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-21T23:00:00Z",
+          "end": "2023-12-22T22:59:59Z",
+          "date": "2023-12-22",
+          "text": "Fri Dec 22nd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-22T23:00:00Z",
+          "end": "2023-12-23T22:59:59Z",
+          "date": "2023-12-23",
+          "text": "Sat Dec 23rd 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-23T23:00:00Z",
+          "end": "2023-12-24T22:59:59Z",
+          "date": "2023-12-24",
+          "text": "Sun Dec 24th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-24T23:00:00Z",
+          "end": "2023-12-25T22:59:59Z",
+          "date": "2023-12-25",
+          "text": "Mon Dec 25th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-25T23:00:00Z",
+          "end": "2023-12-26T22:59:59Z",
+          "date": "2023-12-26",
+          "text": "Tue Dec 26th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-26T23:00:00Z",
+          "end": "2023-12-27T22:59:59Z",
+          "date": "2023-12-27",
+          "text": "Wed Dec 27th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-27T23:00:00Z",
+          "end": "2023-12-28T22:59:59Z",
+          "date": "2023-12-28",
+          "text": "Thu Dec 28th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-28T23:00:00Z",
+          "end": "2023-12-29T22:59:59Z",
+          "date": "2023-12-29",
+          "text": "Fri Dec 29th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-29T23:00:00Z",
+          "end": "2023-12-30T22:59:59Z",
+          "date": "2023-12-30",
+          "text": "Sat Dec 30th 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-30T23:00:00Z",
+          "end": "2023-12-31T22:59:59Z",
+          "date": "2023-12-31",
+          "text": "Sun Dec 31st 2023",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2023-12-31T23:00:00Z",
+          "end": "2024-01-01T22:59:59Z",
+          "date": "2024-01-01",
+          "text": "Mon Jan 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-01T23:00:00Z",
+          "end": "2024-01-02T22:59:59Z",
+          "date": "2024-01-02",
+          "text": "Tue Jan 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-02T23:00:00Z",
+          "end": "2024-01-03T22:59:59Z",
+          "date": "2024-01-03",
+          "text": "Wed Jan 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-03T23:00:00Z",
+          "end": "2024-01-04T22:59:59Z",
+          "date": "2024-01-04",
+          "text": "Thu Jan 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-04T23:00:00Z",
+          "end": "2024-01-05T22:59:59Z",
+          "date": "2024-01-05",
+          "text": "Fri Jan 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-05T23:00:00Z",
+          "end": "2024-01-06T22:59:59Z",
+          "date": "2024-01-06",
+          "text": "Sat Jan 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-06T23:00:00Z",
+          "end": "2024-01-07T22:59:59Z",
+          "date": "2024-01-07",
+          "text": "Sun Jan 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-07T23:00:00Z",
+          "end": "2024-01-08T22:59:59Z",
+          "date": "2024-01-08",
+          "text": "Mon Jan 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-08T23:00:00Z",
+          "end": "2024-01-09T22:59:59Z",
+          "date": "2024-01-09",
+          "text": "Tue Jan 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-09T23:00:00Z",
+          "end": "2024-01-10T22:59:59Z",
+          "date": "2024-01-10",
+          "text": "Wed Jan 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-10T23:00:00Z",
+          "end": "2024-01-11T22:59:59Z",
+          "date": "2024-01-11",
+          "text": "Thu Jan 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-11T23:00:00Z",
+          "end": "2024-01-12T22:59:59Z",
+          "date": "2024-01-12",
+          "text": "Fri Jan 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-12T23:00:00Z",
+          "end": "2024-01-13T22:59:59Z",
+          "date": "2024-01-13",
+          "text": "Sat Jan 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-13T23:00:00Z",
+          "end": "2024-01-14T22:59:59Z",
+          "date": "2024-01-14",
+          "text": "Sun Jan 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-14T23:00:00Z",
+          "end": "2024-01-15T22:59:59Z",
+          "date": "2024-01-15",
+          "text": "Mon Jan 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-15T23:00:00Z",
+          "end": "2024-01-16T22:59:59Z",
+          "date": "2024-01-16",
+          "text": "Tue Jan 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-16T23:00:00Z",
+          "end": "2024-01-17T22:59:59Z",
+          "date": "2024-01-17",
+          "text": "Wed Jan 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-17T23:00:00Z",
+          "end": "2024-01-18T22:59:59Z",
+          "date": "2024-01-18",
+          "text": "Thu Jan 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-18T23:00:00Z",
+          "end": "2024-01-19T22:59:59Z",
+          "date": "2024-01-19",
+          "text": "Fri Jan 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-19T23:00:00Z",
+          "end": "2024-01-20T22:59:59Z",
+          "date": "2024-01-20",
+          "text": "Sat Jan 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-20T23:00:00Z",
+          "end": "2024-01-21T22:59:59Z",
+          "date": "2024-01-21",
+          "text": "Sun Jan 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-21T23:00:00Z",
+          "end": "2024-01-22T22:59:59Z",
+          "date": "2024-01-22",
+          "text": "Mon Jan 22nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-22T23:00:00Z",
+          "end": "2024-01-23T22:59:59Z",
+          "date": "2024-01-23",
+          "text": "Tue Jan 23rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-23T23:00:00Z",
+          "end": "2024-01-24T22:59:59Z",
+          "date": "2024-01-24",
+          "text": "Wed Jan 24th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-24T23:00:00Z",
+          "end": "2024-01-25T22:59:59Z",
+          "date": "2024-01-25",
+          "text": "Thu Jan 25th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-25T23:00:00Z",
+          "end": "2024-01-26T22:59:59Z",
+          "date": "2024-01-26",
+          "text": "Fri Jan 26th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-26T23:00:00Z",
+          "end": "2024-01-27T22:59:59Z",
+          "date": "2024-01-27",
+          "text": "Sat Jan 27th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-27T23:00:00Z",
+          "end": "2024-01-28T22:59:59Z",
+          "date": "2024-01-28",
+          "text": "Sun Jan 28th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-28T23:00:00Z",
+          "end": "2024-01-29T22:59:59Z",
+          "date": "2024-01-29",
+          "text": "Mon Jan 29th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-29T23:00:00Z",
+          "end": "2024-01-30T22:59:59Z",
+          "date": "2024-01-30",
+          "text": "Tue Jan 30th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-30T23:00:00Z",
+          "end": "2024-01-31T22:59:59Z",
+          "date": "2024-01-31",
+          "text": "Wed Jan 31st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-01-31T23:00:00Z",
+          "end": "2024-02-01T22:59:59Z",
+          "date": "2024-02-01",
+          "text": "Thu Feb 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-01T23:00:00Z",
+          "end": "2024-02-02T22:59:59Z",
+          "date": "2024-02-02",
+          "text": "Fri Feb 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-02T23:00:00Z",
+          "end": "2024-02-03T22:59:59Z",
+          "date": "2024-02-03",
+          "text": "Sat Feb 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-03T23:00:00Z",
+          "end": "2024-02-04T22:59:59Z",
+          "date": "2024-02-04",
+          "text": "Sun Feb 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-04T23:00:00Z",
+          "end": "2024-02-05T22:59:59Z",
+          "date": "2024-02-05",
+          "text": "Mon Feb 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-05T23:00:00Z",
+          "end": "2024-02-06T22:59:59Z",
+          "date": "2024-02-06",
+          "text": "Tue Feb 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-06T23:00:00Z",
+          "end": "2024-02-07T22:59:59Z",
+          "date": "2024-02-07",
+          "text": "Wed Feb 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-07T23:00:00Z",
+          "end": "2024-02-08T22:59:59Z",
+          "date": "2024-02-08",
+          "text": "Thu Feb 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-08T23:00:00Z",
+          "end": "2024-02-09T22:59:59Z",
+          "date": "2024-02-09",
+          "text": "Fri Feb 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-09T23:00:00Z",
+          "end": "2024-02-10T22:59:59Z",
+          "date": "2024-02-10",
+          "text": "Sat Feb 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-10T23:00:00Z",
+          "end": "2024-02-11T22:59:59Z",
+          "date": "2024-02-11",
+          "text": "Sun Feb 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-11T23:00:00Z",
+          "end": "2024-02-12T22:59:59Z",
+          "date": "2024-02-12",
+          "text": "Mon Feb 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-12T23:00:00Z",
+          "end": "2024-02-13T22:59:59Z",
+          "date": "2024-02-13",
+          "text": "Tue Feb 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-13T23:00:00Z",
+          "end": "2024-02-14T22:59:59Z",
+          "date": "2024-02-14",
+          "text": "Wed Feb 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-14T23:00:00Z",
+          "end": "2024-02-15T22:59:59Z",
+          "date": "2024-02-15",
+          "text": "Thu Feb 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-15T23:00:00Z",
+          "end": "2024-02-16T22:59:59Z",
+          "date": "2024-02-16",
+          "text": "Fri Feb 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-16T23:00:00Z",
+          "end": "2024-02-17T22:59:59Z",
+          "date": "2024-02-17",
+          "text": "Sat Feb 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-17T23:00:00Z",
+          "end": "2024-02-18T22:59:59Z",
+          "date": "2024-02-18",
+          "text": "Sun Feb 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-18T23:00:00Z",
+          "end": "2024-02-19T22:59:59Z",
+          "date": "2024-02-19",
+          "text": "Mon Feb 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-19T23:00:00Z",
+          "end": "2024-02-20T22:59:59Z",
+          "date": "2024-02-20",
+          "text": "Tue Feb 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-20T23:00:00Z",
+          "end": "2024-02-21T22:59:59Z",
+          "date": "2024-02-21",
+          "text": "Wed Feb 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-21T23:00:00Z",
+          "end": "2024-02-22T22:59:59Z",
+          "date": "2024-02-22",
+          "text": "Thu Feb 22nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-22T23:00:00Z",
+          "end": "2024-02-23T22:59:59Z",
+          "date": "2024-02-23",
+          "text": "Fri Feb 23rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-23T23:00:00Z",
+          "end": "2024-02-24T22:59:59Z",
+          "date": "2024-02-24",
+          "text": "Sat Feb 24th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-24T23:00:00Z",
+          "end": "2024-02-25T22:59:59Z",
+          "date": "2024-02-25",
+          "text": "Sun Feb 25th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-25T23:00:00Z",
+          "end": "2024-02-26T22:59:59Z",
+          "date": "2024-02-26",
+          "text": "Mon Feb 26th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-26T23:00:00Z",
+          "end": "2024-02-27T22:59:59Z",
+          "date": "2024-02-27",
+          "text": "Tue Feb 27th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-27T23:00:00Z",
+          "end": "2024-02-28T22:59:59Z",
+          "date": "2024-02-28",
+          "text": "Wed Feb 28th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-28T23:00:00Z",
+          "end": "2024-02-29T22:59:59Z",
+          "date": "2024-02-29",
+          "text": "Thu Feb 29th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-02-29T23:00:00Z",
+          "end": "2024-03-01T22:59:59Z",
+          "date": "2024-03-01",
+          "text": "Fri Mar 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-01T23:00:00Z",
+          "end": "2024-03-02T22:59:59Z",
+          "date": "2024-03-02",
+          "text": "Sat Mar 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-02T23:00:00Z",
+          "end": "2024-03-03T22:59:59Z",
+          "date": "2024-03-03",
+          "text": "Sun Mar 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-03T23:00:00Z",
+          "end": "2024-03-04T22:59:59Z",
+          "date": "2024-03-04",
+          "text": "Mon Mar 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-04T23:00:00Z",
+          "end": "2024-03-05T22:59:59Z",
+          "date": "2024-03-05",
+          "text": "Tue Mar 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-05T23:00:00Z",
+          "end": "2024-03-06T22:59:59Z",
+          "date": "2024-03-06",
+          "text": "Wed Mar 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-06T23:00:00Z",
+          "end": "2024-03-07T22:59:59Z",
+          "date": "2024-03-07",
+          "text": "Thu Mar 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-07T23:00:00Z",
+          "end": "2024-03-08T22:59:59Z",
+          "date": "2024-03-08",
+          "text": "Fri Mar 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-08T23:00:00Z",
+          "end": "2024-03-09T22:59:59Z",
+          "date": "2024-03-09",
+          "text": "Sat Mar 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-09T23:00:00Z",
+          "end": "2024-03-10T22:59:59Z",
+          "date": "2024-03-10",
+          "text": "Sun Mar 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-10T23:00:00Z",
+          "end": "2024-03-11T22:59:59Z",
+          "date": "2024-03-11",
+          "text": "Mon Mar 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-11T23:00:00Z",
+          "end": "2024-03-12T22:59:59Z",
+          "date": "2024-03-12",
+          "text": "Tue Mar 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-12T23:00:00Z",
+          "end": "2024-03-13T22:59:59Z",
+          "date": "2024-03-13",
+          "text": "Wed Mar 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-13T23:00:00Z",
+          "end": "2024-03-14T22:59:59Z",
+          "date": "2024-03-14",
+          "text": "Thu Mar 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-14T23:00:00Z",
+          "end": "2024-03-15T22:59:59Z",
+          "date": "2024-03-15",
+          "text": "Fri Mar 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-15T23:00:00Z",
+          "end": "2024-03-16T22:59:59Z",
+          "date": "2024-03-16",
+          "text": "Sat Mar 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-16T23:00:00Z",
+          "end": "2024-03-17T22:59:59Z",
+          "date": "2024-03-17",
+          "text": "Sun Mar 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-17T23:00:00Z",
+          "end": "2024-03-18T22:59:59Z",
+          "date": "2024-03-18",
+          "text": "Mon Mar 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-18T23:00:00Z",
+          "end": "2024-03-19T22:59:59Z",
+          "date": "2024-03-19",
+          "text": "Tue Mar 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-19T23:00:00Z",
+          "end": "2024-03-20T22:59:59Z",
+          "date": "2024-03-20",
+          "text": "Wed Mar 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-20T23:00:00Z",
+          "end": "2024-03-21T22:59:59Z",
+          "date": "2024-03-21",
+          "text": "Thu Mar 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-21T23:00:00Z",
+          "end": "2024-03-22T22:59:59Z",
+          "date": "2024-03-22",
+          "text": "Fri Mar 22nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-22T23:00:00Z",
+          "end": "2024-03-23T22:59:59Z",
+          "date": "2024-03-23",
+          "text": "Sat Mar 23rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-23T23:00:00Z",
+          "end": "2024-03-24T22:59:59Z",
+          "date": "2024-03-24",
+          "text": "Sun Mar 24th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-24T23:00:00Z",
+          "end": "2024-03-25T22:59:59Z",
+          "date": "2024-03-25",
+          "text": "Mon Mar 25th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-25T23:00:00Z",
+          "end": "2024-03-26T22:59:59Z",
+          "date": "2024-03-26",
+          "text": "Tue Mar 26th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-26T23:00:00Z",
+          "end": "2024-03-27T22:59:59Z",
+          "date": "2024-03-27",
+          "text": "Wed Mar 27th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-27T23:00:00Z",
+          "end": "2024-03-28T22:59:59Z",
+          "date": "2024-03-28",
+          "text": "Thu Mar 28th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-28T23:00:00Z",
+          "end": "2024-03-29T22:59:59Z",
+          "date": "2024-03-29",
+          "text": "Fri Mar 29th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-29T23:00:00Z",
+          "end": "2024-03-30T22:59:59Z",
+          "date": "2024-03-30",
+          "text": "Sat Mar 30th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-30T23:00:00Z",
+          "end": "2024-03-31T21:59:59Z",
+          "date": "2024-03-31",
+          "text": "Sun Mar 31st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-03-31T22:00:00Z",
+          "end": "2024-04-01T21:59:59Z",
+          "date": "2024-04-01",
+          "text": "Mon Apr 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-01T22:00:00Z",
+          "end": "2024-04-02T21:59:59Z",
+          "date": "2024-04-02",
+          "text": "Tue Apr 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-02T22:00:00Z",
+          "end": "2024-04-03T21:59:59Z",
+          "date": "2024-04-03",
+          "text": "Wed Apr 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-03T22:00:00Z",
+          "end": "2024-04-04T21:59:59Z",
+          "date": "2024-04-04",
+          "text": "Thu Apr 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-04T22:00:00Z",
+          "end": "2024-04-05T21:59:59Z",
+          "date": "2024-04-05",
+          "text": "Fri Apr 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-05T22:00:00Z",
+          "end": "2024-04-06T21:59:59Z",
+          "date": "2024-04-06",
+          "text": "Sat Apr 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-06T22:00:00Z",
+          "end": "2024-04-07T21:59:59Z",
+          "date": "2024-04-07",
+          "text": "Sun Apr 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-07T22:00:00Z",
+          "end": "2024-04-08T21:59:59Z",
+          "date": "2024-04-08",
+          "text": "Mon Apr 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 32,
+          "total_seconds": 23523.609,
+          "digital": "6:32",
+          "decimal": "6.53",
+          "text": "6 hrs 32 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-08T22:00:00Z",
+          "end": "2024-04-09T21:59:59Z",
+          "date": "2024-04-09",
+          "text": "Tue Apr 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 59,
+          "total_seconds": 25164.072,
+          "digital": "6:59",
+          "decimal": "6.98",
+          "text": "6 hrs 59 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-09T22:00:00Z",
+          "end": "2024-04-10T21:59:59Z",
+          "date": "2024-04-10",
+          "text": "Wed Apr 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 59,
+          "total_seconds": 21594.008,
+          "digital": "5:59",
+          "decimal": "5.98",
+          "text": "5 hrs 59 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-10T22:00:00Z",
+          "end": "2024-04-11T21:59:59Z",
+          "date": "2024-04-11",
+          "text": "Thu Apr 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 55,
+          "total_seconds": 14139.466,
+          "digital": "3:55",
+          "decimal": "3.92",
+          "text": "3 hrs 55 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-11T22:00:00Z",
+          "end": "2024-04-12T21:59:59Z",
+          "date": "2024-04-12",
+          "text": "Fri Apr 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 46,
+          "total_seconds": 2765.712751,
+          "digital": "0:46",
+          "decimal": "0.77",
+          "text": "46 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-12T22:00:00Z",
+          "end": "2024-04-13T21:59:59Z",
+          "date": "2024-04-13",
+          "text": "Sat Apr 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-13T22:00:00Z",
+          "end": "2024-04-14T21:59:59Z",
+          "date": "2024-04-14",
+          "text": "Sun Apr 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-14T22:00:00Z",
+          "end": "2024-04-15T21:59:59Z",
+          "date": "2024-04-15",
+          "text": "Mon Apr 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 12,
+          "total_seconds": 7969.930321,
+          "digital": "2:12",
+          "decimal": "2.20",
+          "text": "2 hrs 12 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-15T22:00:00Z",
+          "end": "2024-04-16T21:59:59Z",
+          "date": "2024-04-16",
+          "text": "Tue Apr 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 33,
+          "total_seconds": 2037.258,
+          "digital": "0:33",
+          "decimal": "0.55",
+          "text": "33 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-16T22:00:00Z",
+          "end": "2024-04-17T21:59:59Z",
+          "date": "2024-04-17",
+          "text": "Wed Apr 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 40,
+          "total_seconds": 2407.356,
+          "digital": "0:40",
+          "decimal": "0.67",
+          "text": "40 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-17T22:00:00Z",
+          "end": "2024-04-18T21:59:59Z",
+          "date": "2024-04-18",
+          "text": "Thu Apr 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 0,
+          "total_seconds": 7219.647,
+          "digital": "2:00",
+          "decimal": "2.00",
+          "text": "2 hrs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-18T22:00:00Z",
+          "end": "2024-04-19T21:59:59Z",
+          "date": "2024-04-19",
+          "text": "Fri Apr 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 1,
+          "minutes": 28,
+          "total_seconds": 5284.446,
+          "digital": "1:28",
+          "decimal": "1.47",
+          "text": "1 hr 28 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-19T22:00:00Z",
+          "end": "2024-04-20T21:59:59Z",
+          "date": "2024-04-20",
+          "text": "Sat Apr 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-20T22:00:00Z",
+          "end": "2024-04-21T21:59:59Z",
+          "date": "2024-04-21",
+          "text": "Sun Apr 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 51,
+          "total_seconds": 3072.338116,
+          "digital": "0:51",
+          "decimal": "0.85",
+          "text": "51 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-21T22:00:00Z",
+          "end": "2024-04-22T21:59:59Z",
+          "date": "2024-04-22",
+          "text": "Mon Apr 22nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 26,
+          "total_seconds": 23174.307779,
+          "digital": "6:26",
+          "decimal": "6.43",
+          "text": "6 hrs 26 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-22T22:00:00Z",
+          "end": "2024-04-23T21:59:59Z",
+          "date": "2024-04-23",
+          "text": "Tue Apr 23rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 10,
+          "minutes": 59,
+          "total_seconds": 39571.750262,
+          "digital": "10:59",
+          "decimal": "10.98",
+          "text": "10 hrs 59 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-23T22:00:00Z",
+          "end": "2024-04-24T21:59:59Z",
+          "date": "2024-04-24",
+          "text": "Wed Apr 24th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 6,
+          "total_seconds": 18377.06793,
+          "digital": "5:06",
+          "decimal": "5.10",
+          "text": "5 hrs 6 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-24T22:00:00Z",
+          "end": "2024-04-25T21:59:59Z",
+          "date": "2024-04-25",
+          "text": "Thu Apr 25th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 6,
+          "total_seconds": 7569.066,
+          "digital": "2:06",
+          "decimal": "2.10",
+          "text": "2 hrs 6 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-25T22:00:00Z",
+          "end": "2024-04-26T21:59:59Z",
+          "date": "2024-04-26",
+          "text": "Fri Apr 26th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 58,
+          "total_seconds": 17923.248432,
+          "digital": "4:58",
+          "decimal": "4.97",
+          "text": "4 hrs 58 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-26T22:00:00Z",
+          "end": "2024-04-27T21:59:59Z",
+          "date": "2024-04-27",
+          "text": "Sat Apr 27th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 37,
+          "total_seconds": 13067.751779,
+          "digital": "3:37",
+          "decimal": "3.62",
+          "text": "3 hrs 37 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-27T22:00:00Z",
+          "end": "2024-04-28T21:59:59Z",
+          "date": "2024-04-28",
+          "text": "Sun Apr 28th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 33,
+          "total_seconds": 9196.31548,
+          "digital": "2:33",
+          "decimal": "2.55",
+          "text": "2 hrs 33 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-28T22:00:00Z",
+          "end": "2024-04-29T21:59:59Z",
+          "date": "2024-04-29",
+          "text": "Mon Apr 29th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 10,
+          "total_seconds": 15059.551026,
+          "digital": "4:10",
+          "decimal": "4.17",
+          "text": "4 hrs 10 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-29T22:00:00Z",
+          "end": "2024-04-30T21:59:59Z",
+          "date": "2024-04-30",
+          "text": "Tue Apr 30th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 40,
+          "total_seconds": 9652.778955,
+          "digital": "2:40",
+          "decimal": "2.67",
+          "text": "2 hrs 40 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-04-30T22:00:00Z",
+          "end": "2024-05-01T21:59:59Z",
+          "date": "2024-05-01",
+          "text": "Wed May 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 10,
+          "minutes": 12,
+          "total_seconds": 36750.816,
+          "digital": "10:12",
+          "decimal": "10.20",
+          "text": "10 hrs 12 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-01T22:00:00Z",
+          "end": "2024-05-02T21:59:59Z",
+          "date": "2024-05-02",
+          "text": "Thu May 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 24,
+          "total_seconds": 12263.042,
+          "digital": "3:24",
+          "decimal": "3.40",
+          "text": "3 hrs 24 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-02T22:00:00Z",
+          "end": "2024-05-03T21:59:59Z",
+          "date": "2024-05-03",
+          "text": "Fri May 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 49,
+          "total_seconds": 24560.845,
+          "digital": "6:49",
+          "decimal": "6.82",
+          "text": "6 hrs 49 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-03T22:00:00Z",
+          "end": "2024-05-04T21:59:59Z",
+          "date": "2024-05-04",
+          "text": "Sat May 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 19,
+          "total_seconds": 1167.056,
+          "digital": "0:19",
+          "decimal": "0.32",
+          "text": "19 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-04T22:00:00Z",
+          "end": "2024-05-05T21:59:59Z",
+          "date": "2024-05-05",
+          "text": "Sun May 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-05T22:00:00Z",
+          "end": "2024-05-06T21:59:59Z",
+          "date": "2024-05-06",
+          "text": "Mon May 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 9,
+          "minutes": 7,
+          "total_seconds": 32879.648134,
+          "digital": "9:07",
+          "decimal": "9.12",
+          "text": "9 hrs 7 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-06T22:00:00Z",
+          "end": "2024-05-07T21:59:59Z",
+          "date": "2024-05-07",
+          "text": "Tue May 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 7,
+          "minutes": 49,
+          "total_seconds": 28164.764,
+          "digital": "7:49",
+          "decimal": "7.82",
+          "text": "7 hrs 49 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-07T22:00:00Z",
+          "end": "2024-05-08T21:59:59Z",
+          "date": "2024-05-08",
+          "text": "Wed May 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 31,
+          "total_seconds": 9104.942,
+          "digital": "2:31",
+          "decimal": "2.52",
+          "text": "2 hrs 31 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-08T22:00:00Z",
+          "end": "2024-05-09T21:59:59Z",
+          "date": "2024-05-09",
+          "text": "Thu May 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 32,
+          "total_seconds": 19931.354,
+          "digital": "5:32",
+          "decimal": "5.53",
+          "text": "5 hrs 32 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-09T22:00:00Z",
+          "end": "2024-05-10T21:59:59Z",
+          "date": "2024-05-10",
+          "text": "Fri May 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 23,
+          "total_seconds": 15814.373,
+          "digital": "4:23",
+          "decimal": "4.38",
+          "text": "4 hrs 23 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-10T22:00:00Z",
+          "end": "2024-05-11T21:59:59Z",
+          "date": "2024-05-11",
+          "text": "Sat May 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-11T22:00:00Z",
+          "end": "2024-05-12T21:59:59Z",
+          "date": "2024-05-12",
+          "text": "Sun May 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-12T22:00:00Z",
+          "end": "2024-05-13T21:59:59Z",
+          "date": "2024-05-13",
+          "text": "Mon May 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 33,
+          "total_seconds": 20024.312196,
+          "digital": "5:33",
+          "decimal": "5.55",
+          "text": "5 hrs 33 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-13T22:00:00Z",
+          "end": "2024-05-14T21:59:59Z",
+          "date": "2024-05-14",
+          "text": "Tue May 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 18,
+          "total_seconds": 15507.159662,
+          "digital": "4:18",
+          "decimal": "4.30",
+          "text": "4 hrs 18 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-14T22:00:00Z",
+          "end": "2024-05-15T21:59:59Z",
+          "date": "2024-05-15",
+          "text": "Wed May 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 41,
+          "total_seconds": 16916.556989,
+          "digital": "4:41",
+          "decimal": "4.68",
+          "text": "4 hrs 41 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-15T22:00:00Z",
+          "end": "2024-05-16T21:59:59Z",
+          "date": "2024-05-16",
+          "text": "Thu May 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 21,
+          "total_seconds": 19300.587482,
+          "digital": "5:21",
+          "decimal": "5.35",
+          "text": "5 hrs 21 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-16T22:00:00Z",
+          "end": "2024-05-17T21:59:59Z",
+          "date": "2024-05-17",
+          "text": "Fri May 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 52,
+          "total_seconds": 13933.98,
+          "digital": "3:52",
+          "decimal": "3.87",
+          "text": "3 hrs 52 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-17T22:00:00Z",
+          "end": "2024-05-18T21:59:59Z",
+          "date": "2024-05-18",
+          "text": "Sat May 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-18T22:00:00Z",
+          "end": "2024-05-19T21:59:59Z",
+          "date": "2024-05-19",
+          "text": "Sun May 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 51,
+          "total_seconds": 21109.039,
+          "digital": "5:51",
+          "decimal": "5.85",
+          "text": "5 hrs 51 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-19T22:00:00Z",
+          "end": "2024-05-20T21:59:59Z",
+          "date": "2024-05-20",
+          "text": "Mon May 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 11,
+          "minutes": 27,
+          "total_seconds": 41256.071,
+          "digital": "11:27",
+          "decimal": "11.45",
+          "text": "11 hrs 27 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-20T22:00:00Z",
+          "end": "2024-05-21T21:59:59Z",
+          "date": "2024-05-21",
+          "text": "Tue May 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 8,
+          "minutes": 15,
+          "total_seconds": 29734.027614,
+          "digital": "8:15",
+          "decimal": "8.25",
+          "text": "8 hrs 15 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-21T22:00:00Z",
+          "end": "2024-05-22T21:59:59Z",
+          "date": "2024-05-22",
+          "text": "Wed May 22nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 24,
+          "total_seconds": 19471.333,
+          "digital": "5:24",
+          "decimal": "5.40",
+          "text": "5 hrs 24 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-22T22:00:00Z",
+          "end": "2024-05-23T21:59:59Z",
+          "date": "2024-05-23",
+          "text": "Thu May 23rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 8,
+          "minutes": 16,
+          "total_seconds": 29781.521,
+          "digital": "8:16",
+          "decimal": "8.27",
+          "text": "8 hrs 16 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-23T22:00:00Z",
+          "end": "2024-05-24T21:59:59Z",
+          "date": "2024-05-24",
+          "text": "Fri May 24th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 8,
+          "minutes": 50,
+          "total_seconds": 31831.605,
+          "digital": "8:50",
+          "decimal": "8.83",
+          "text": "8 hrs 50 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-24T22:00:00Z",
+          "end": "2024-05-25T21:59:59Z",
+          "date": "2024-05-25",
+          "text": "Sat May 25th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 54,
+          "total_seconds": 17659.774,
+          "digital": "4:54",
+          "decimal": "4.90",
+          "text": "4 hrs 54 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-25T22:00:00Z",
+          "end": "2024-05-26T21:59:59Z",
+          "date": "2024-05-26",
+          "text": "Sun May 26th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 30,
+          "total_seconds": 19805.356368,
+          "digital": "5:30",
+          "decimal": "5.50",
+          "text": "5 hrs 30 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-26T22:00:00Z",
+          "end": "2024-05-27T21:59:59Z",
+          "date": "2024-05-27",
+          "text": "Mon May 27th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 44,
+          "total_seconds": 13486.707,
+          "digital": "3:44",
+          "decimal": "3.73",
+          "text": "3 hrs 44 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-27T22:00:00Z",
+          "end": "2024-05-28T21:59:59Z",
+          "date": "2024-05-28",
+          "text": "Tue May 28th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 16,
+          "total_seconds": 11770.248,
+          "digital": "3:16",
+          "decimal": "3.27",
+          "text": "3 hrs 16 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-28T22:00:00Z",
+          "end": "2024-05-29T21:59:59Z",
+          "date": "2024-05-29",
+          "text": "Wed May 29th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 51,
+          "total_seconds": 17472.662,
+          "digital": "4:51",
+          "decimal": "4.85",
+          "text": "4 hrs 51 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-29T22:00:00Z",
+          "end": "2024-05-30T21:59:59Z",
+          "date": "2024-05-30",
+          "text": "Thu May 30th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 49,
+          "total_seconds": 24579.732,
+          "digital": "6:49",
+          "decimal": "6.82",
+          "text": "6 hrs 49 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-30T22:00:00Z",
+          "end": "2024-05-31T21:59:59Z",
+          "date": "2024-05-31",
+          "text": "Fri May 31st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 2,
+          "total_seconds": 10929.351,
+          "digital": "3:02",
+          "decimal": "3.03",
+          "text": "3 hrs 2 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-05-31T22:00:00Z",
+          "end": "2024-06-01T21:59:59Z",
+          "date": "2024-06-01",
+          "text": "Sat Jun 1st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-01T22:00:00Z",
+          "end": "2024-06-02T21:59:59Z",
+          "date": "2024-06-02",
+          "text": "Sun Jun 2nd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-02T22:00:00Z",
+          "end": "2024-06-03T21:59:59Z",
+          "date": "2024-06-03",
+          "text": "Mon Jun 3rd 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 6,
+          "minutes": 32,
+          "total_seconds": 23526.351,
+          "digital": "6:32",
+          "decimal": "6.53",
+          "text": "6 hrs 32 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-03T22:00:00Z",
+          "end": "2024-06-04T21:59:59Z",
+          "date": "2024-06-04",
+          "text": "Tue Jun 4th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 24,
+          "total_seconds": 12294.615,
+          "digital": "3:24",
+          "decimal": "3.40",
+          "text": "3 hrs 24 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-04T22:00:00Z",
+          "end": "2024-06-05T21:59:59Z",
+          "date": "2024-06-05",
+          "text": "Wed Jun 5th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 15,
+          "total_seconds": 18936.46,
+          "digital": "5:15",
+          "decimal": "5.25",
+          "text": "5 hrs 15 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-05T22:00:00Z",
+          "end": "2024-06-06T21:59:59Z",
+          "date": "2024-06-06",
+          "text": "Thu Jun 6th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 5,
+          "total_seconds": 11123.263,
+          "digital": "3:05",
+          "decimal": "3.08",
+          "text": "3 hrs 5 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-06T22:00:00Z",
+          "end": "2024-06-07T21:59:59Z",
+          "date": "2024-06-07",
+          "text": "Fri Jun 7th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 59,
+          "total_seconds": 10751.836,
+          "digital": "2:59",
+          "decimal": "2.98",
+          "text": "2 hrs 59 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-07T22:00:00Z",
+          "end": "2024-06-08T21:59:59Z",
+          "date": "2024-06-08",
+          "text": "Sat Jun 8th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-08T22:00:00Z",
+          "end": "2024-06-09T21:59:59Z",
+          "date": "2024-06-09",
+          "text": "Sun Jun 9th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 1,
+          "minutes": 54,
+          "total_seconds": 6878.844,
+          "digital": "1:54",
+          "decimal": "1.90",
+          "text": "1 hr 54 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-09T22:00:00Z",
+          "end": "2024-06-10T21:59:59Z",
+          "date": "2024-06-10",
+          "text": "Mon Jun 10th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 52,
+          "total_seconds": 13935.288,
+          "digital": "3:52",
+          "decimal": "3.87",
+          "text": "3 hrs 52 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-10T22:00:00Z",
+          "end": "2024-06-11T21:59:59Z",
+          "date": "2024-06-11",
+          "text": "Tue Jun 11th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 6,
+          "total_seconds": 11184.677,
+          "digital": "3:06",
+          "decimal": "3.10",
+          "text": "3 hrs 6 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-11T22:00:00Z",
+          "end": "2024-06-12T21:59:59Z",
+          "date": "2024-06-12",
+          "text": "Wed Jun 12th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 37,
+          "total_seconds": 13034.62963,
+          "digital": "3:37",
+          "decimal": "3.62",
+          "text": "3 hrs 37 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-12T22:00:00Z",
+          "end": "2024-06-13T21:59:59Z",
+          "date": "2024-06-13",
+          "text": "Thu Jun 13th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 4,
+          "minutes": 5,
+          "total_seconds": 14727.214,
+          "digital": "4:05",
+          "decimal": "4.08",
+          "text": "4 hrs 5 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-13T22:00:00Z",
+          "end": "2024-06-14T21:59:59Z",
+          "date": "2024-06-14",
+          "text": "Fri Jun 14th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 51,
+          "total_seconds": 13877.347,
+          "digital": "3:51",
+          "decimal": "3.85",
+          "text": "3 hrs 51 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-14T22:00:00Z",
+          "end": "2024-06-15T21:59:59Z",
+          "date": "2024-06-15",
+          "text": "Sat Jun 15th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-15T22:00:00Z",
+          "end": "2024-06-16T21:59:59Z",
+          "date": "2024-06-16",
+          "text": "Sun Jun 16th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 0,
+          "minutes": 0,
+          "total_seconds": 0.0,
+          "digital": "0:00",
+          "decimal": "0.00",
+          "text": "0 secs"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-16T22:00:00Z",
+          "end": "2024-06-17T21:59:59Z",
+          "date": "2024-06-17",
+          "text": "Mon Jun 17th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 13,
+          "total_seconds": 18821.396,
+          "digital": "5:13",
+          "decimal": "5.22",
+          "text": "5 hrs 13 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-17T22:00:00Z",
+          "end": "2024-06-18T21:59:59Z",
+          "date": "2024-06-18",
+          "text": "Tue Jun 18th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 5,
+          "minutes": 57,
+          "total_seconds": 21473.901,
+          "digital": "5:57",
+          "decimal": "5.95",
+          "text": "5 hrs 57 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-18T22:00:00Z",
+          "end": "2024-06-19T21:59:59Z",
+          "date": "2024-06-19",
+          "text": "Wed Jun 19th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 3,
+          "minutes": 45,
+          "total_seconds": 13553.65683,
+          "digital": "3:45",
+          "decimal": "3.75",
+          "text": "3 hrs 45 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-19T22:00:00Z",
+          "end": "2024-06-20T21:59:59Z",
+          "date": "2024-06-20",
+          "text": "Thu Jun 20th 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 55,
+          "total_seconds": 10549.281,
+          "digital": "2:55",
+          "decimal": "2.92",
+          "text": "2 hrs 55 mins"
+        }
+      },
+      {
+        "range": {
+          "start": "2024-06-20T22:00:00Z",
+          "end": "2024-06-21T21:59:59Z",
+          "date": "2024-06-21",
+          "text": "Fri Jun 21st 2024",
+          "timezone": "Europe/Warsaw"
+        },
+        "grand_total": {
+          "hours": 2,
+          "minutes": 48,
+          "total_seconds": 10126.329,
+          "digital": "2:48",
+          "decimal": "2.80",
+          "text": "2 hrs 48 mins"
+        }
+      }
+    ]
+  }
+}
